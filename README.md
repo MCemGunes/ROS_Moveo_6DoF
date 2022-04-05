@@ -3,5 +3,5 @@
 
 Main repo of the 5DoF: https://github.com/BCN3D/BCN3D-Moveo 
 
-Our 6DoF uses RoS settings stated here:
+6DoF implementation uses RoS for controlling the robot based on the settings in this repo(5DoF):
 https://github.com/jesseweisberg/moveo_ros/tree/master/moveo_moveit 
